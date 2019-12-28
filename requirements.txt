@@ -1,0 +1,11 @@
+numpy
+music21==4.1.0
+tensorflow
+scikit-learn
+matplotlib
+tflearn==0.3.2
+scipy
+seaborn==0.8.1
+jupyterlab
+keras
+tqdm

@@ -33,6 +33,8 @@ To prevent the confusion and frustration caused by importing Python packages, pu
 
 The directory `piano_reduction` contains the source codes for the piano reduction package. `demo_2.ipynb` and `20190415c.py` shows some examples of using the package. See `piano_reduction/README.md` for more details of using the package.
 
+The directory 'report' contains the project report and presentation slides for this project.
+
 ## Contents
 
 The usable contents are listed as follows:
